@@ -1,0 +1,166 @@
+body {
+    font-family: 'Italiana', sans-serif;
+    
+    position: relative;
+    margin: 10px;
+    padding: 5px;
+    display: bock;
+/*done*/
+    
+
+}
+
+#color_container {
+    position: relative;
+    display: inline-flex;
+    border: 2px solid black;
+    padding: 12px;
+    width: 774px;
+    height: 350px;
+    flex-basis: 500px;
+    margin: auto;
+    
+    
+
+   /*C:\Users\User\OneDrive\Desktop\projects\WebsiteDesignSystem_html\index.html*/
+}
+
+
+#h2 {
+    font-size: 20px;
+    display: block;
+    text-align: left;
+    position: relative;
+    top: 0px;
+   
+}
+
+
+.col {
+    font-family: 'Brygada 1918', serif;
+    font-weight: 300;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 0px;
+    width: 160px;
+    height: 110px;
+    position: relative;
+    top: 100px;
+    right: 40px;
+    margin: auto 0px;
+    
+  
+    
+}
+
+#blue {
+    color: white;
+    background-color: #151B54;
+}
+
+#white{
+    color: black;
+    background-color: #F5FFFA;
+}
+
+#electric {
+    color: black;
+    background-color: #7DF9FF;
+    
+}
+
+#red {
+    color: white;
+    background-color: #800517;
+    
+    
+}
+
+#fonts {
+    font-size: 20px;
+    display: block;
+    position: relative;
+    top: 15px;
+    margin: 0 35% 5% 0%;
+    padding: 10px;
+    width: 800;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.head {
+    font-size: 25px;
+}
+
+
+.norm {
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+}
+.italic {
+    font-size: 18px;
+    font-weight: lighter;
+    font-style: italic;
+}
+.bold {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: bold;
+}
+#one {
+    font-family: 'Brygada 1918';
+    display: inline-block;
+    position: relative;
+}
+#two {
+    position: relative;
+    left: 70px;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'IM Fell Great Primer', serif;
+
+    
+}
+#three {
+    font-family: 'Rubik Lines', system-ui;
+}
+
+
+
+
+
+
+#textstyle {
+    font-size: 20px;
+    display: block;
+    position: relative;
+    bottom: 30px;
+    padding: 10px;
+    width: 800;
+    height: 500px;
+    border: 2px solid black;
+    margin: 0 35% 5% 0%;
+} 
+
+
+
+    
+ 
+.main {
+    font-size: 25px;
+}
+.sub {
+   font-size: 20px;
+}
+.para {
+    font-size: 18px;
+
+}
+
+
+.head {
+    font-size: 21px;
+}
+
